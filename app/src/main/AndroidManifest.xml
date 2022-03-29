@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProyectoDeMetricasDeSoftware" >
         <activity
+            android:name=".SeleccionFile"
+            android:exported="false" />
+        <activity
             android:name=".Vieja_Entrada"
             android:exported="false" />
         <activity
