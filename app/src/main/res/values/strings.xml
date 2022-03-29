@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proyecto de Metricas de Software</string>
+    <string name="nueva_entrada">Nueva Entrada</string>
+    <string name="base_de_datos">Base de Datos</string>
+</resources>
